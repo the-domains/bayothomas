@@ -1,0 +1,14 @@
+layout_spectrum: 0.23346676211804152
+typography_spectrum: 0.5381782550830394
+color:
+  brandStrength: 0.40437843510881066
+  lightness: 0.9963057131972164
+  saturation: 0.25806747865863144
+  rhythmicContrast: 0.03533774986863136
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: BayoThomas
